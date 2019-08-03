@@ -28,6 +28,7 @@
   ],
   "web_accessible_resources": [
     "config/women.json",
+    "config/animal.json",
     "js/underscore-min.map"
   ]
 }
