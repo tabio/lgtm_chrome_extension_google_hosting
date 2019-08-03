@@ -27,8 +27,9 @@
     }
   ],
   "web_accessible_resources": [
-    "config/women.json",
     "config/animal.json",
+    "config/wafuku.json",
+    "config/bijyo.json",
     "js/underscore-min.map"
   ]
 }
