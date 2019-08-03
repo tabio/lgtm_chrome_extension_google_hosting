@@ -28,8 +28,9 @@
   ],
   "web_accessible_resources": [
     "config/animal.json",
-    "config/wafuku.json",
     "config/bijyo.json",
+    "config/japan.json",
+    "config/wafuku.json",
     "js/underscore-min.map"
   ]
 }
