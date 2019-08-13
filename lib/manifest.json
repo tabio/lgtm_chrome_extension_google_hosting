@@ -31,6 +31,7 @@
     "config/bijyo.json",
     "config/gohan.json",
     "config/japan.json",
+    "config/vehicle.json",
     "config/wafuku.json",
     "js/underscore-min.map"
   ]
