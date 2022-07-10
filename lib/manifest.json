@@ -29,6 +29,7 @@
   "web_accessible_resources": [
     "config/animal.json",
     "config/bijyo.json",
+    "config/drawing.json",
     "config/gohan.json",
     "config/japan.json",
     "config/vehicle.json",
